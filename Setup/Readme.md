@@ -1,9 +1,9 @@
-**[Common]**  
+## **[Common]**  
 burpsuite  
 Wireshark  
 python  
 
-**[Mobile]**  
+## **[Mobile]**  
 adb  
 nox  
 3uTools  
@@ -14,7 +14,7 @@ HxD
 frida-tools  
 fridump  
 
-**[Util]**  
+## **[Util]**  
 picpick  
 BANDIZIP  
 VisualStudio  
